@@ -685,3 +685,13 @@ table button:hover{
      background-color: var(--main-color)
    }
 }
+
+.best-features .first-feature3 button{
+    border-radius: 10px;
+    font-size: 20;
+    background: var(--main-color);
+    border: .2rem solid var(--main-color);
+    padding: 10px;
+    margin: 10px;
+    color: var(--bg-color);
+}
